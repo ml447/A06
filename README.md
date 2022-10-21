@@ -1,1 +1,16 @@
-# A06 50
+# A06
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My-first-web-page</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <h1>Matthew Lau, ml447, Section 3</h1>
+  <p>A06.</p>
+
+  <script src="script.js"></script>
+</body>
+</html>
